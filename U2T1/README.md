@@ -39,7 +39,7 @@ Por fim, a rede deverá estar em produção de forma análoga ao explicado na Se
 
 https://thiagoclopes.github.io/netdeploy/
 
-Descrição: Escolhemos o degree centrality para demonstrar o tamanho dos vértices e as cores são relaxionadas ao critério de comunidade pela métrica Modularity.
+Descrição: Escolhemos o degree centrality para demonstrar o tamanho dos vértices e as cores são relacionadas ao critério de comunidade pela métrica Modularity.
 
 
 # Vídeo explicativo
