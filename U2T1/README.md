@@ -15,7 +15,9 @@ Requisito 1:
 - Gerar uma figura para demonstrar a rede disponibilizada pelo professor. O tamanho do vértice deverá ser
 proporcional a quantidade de vizinhos, enquanto as cores devem ser relacionadas com o Closeness ou Betweenness ou Eigenvector Centrality.
 
-#imagem1
+
+![closeness_centrality](https://github.com/user-attachments/assets/36ec6cac-63fb-46cf-8171-8c939653fd3c)
+
 
 Descrição: Utilizamos o degree centrality para demonstrar o tamanho dos vértices e escolhemos o closeness centrality para as cores.
  
@@ -24,7 +26,9 @@ Requisito 2:
 - A partir da rede, gerar uma figura destacando o k-core e o k-shell. O tamanho do vértice deverá ser
 proporcional ao degree centrality.
 
-#imagem2
+
+![k_metrics](https://github.com/user-attachments/assets/e7a0cd5d-3849-4861-84bb-16970ea70476)
+
 
 Descrição: Utilizamos o degree centrality para demonstrar o tamanho dos vértices e as cores são representadas pelas métricas k-shell e k-core da rede.
 
@@ -33,7 +37,7 @@ Requisito 3:
 - Gerar uma figura onde o tamanho do vértice deve ser relacionado a uma métrica de livre escolha, enquanto as cores deverão ser relacionadas ao critério de comunidade. 
 Por fim, a rede deverá estar em produção de forma análoga ao explicado na Semana 6. Ou seja, é necessário dar deploy dos arquivos.
 
-#imagem3
+https://thiagoclopes.github.io/netdeploy/
 
 Descrição: Escolhemos o degree centrality para demonstrar o tamanho dos vértices e as cores são relaxionadas ao critério de comunidade pela métrica Modularity.
 
