@@ -41,9 +41,11 @@ https://thiagoclopes.github.io/netdeploy/
 
 Descrição: Escolhemos o degree centrality para demonstrar o tamanho dos vértices e as cores são relacionadas ao critério de comunidade pela métrica Modularity.
 
+*Obs.: Utilizamos também o arquivo no google colab para calcular o k-core e k-shell.
+
 
 # Vídeo explicativo
-LINK
+[LINK](https://www.loom.com/share/8f893994f0104555bb2b0522e320bbdc?sid=0a57f608-0f32-44bb-a278-645a459f2da4)
 
 
 # Conclusão
